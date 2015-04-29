@@ -150,6 +150,14 @@ footer a {
     display: inline;
     }
     
+    .petit-img {
+    display: block;
+    }
+    
+    .grand-img {
+        display: none;
+    }
+    
 }
 
 @media screen and (min-width: 681px) and (max-width: 987px) {
@@ -189,6 +197,14 @@ footer a {
     
     .petit {
     display: inline;
+    }
+    
+    .petit-img {
+    display: block;
+    }
+    
+    .grand-img {
+        display: none;
     }
 }
 
