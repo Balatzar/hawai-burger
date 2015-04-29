@@ -64,6 +64,7 @@ em {
 /* IMAGES */
 
 .img {
+    margin-top: 10px;
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
@@ -79,6 +80,10 @@ em {
 
 .img-deux {
     background-image: url(deux.jpg);
+}
+
+.petit-img {
+    display: none;
 }
 
 /* HEADER */
