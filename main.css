@@ -2,14 +2,17 @@
 
 body {
     font-size: 1em;
-    font-family: serif;
+    font-family: 'Open Sans', sans-serif;
     color: black;
-    font-style: italic;
     background-color: #D6D6D6;
     transition: 1s ease;
     -webkit-transition: 1s ease;
     -moz-transition: 1s ease;
     -o-transition: 1s ease;
+}
+
+span {
+    font-style: italic;
 }
 
 h1 {
@@ -24,7 +27,7 @@ h1 {
 }
 
 h2 {
-    font-size: 1.5em;
+    font-size: 1.3em;
     text-transform: capitalize;
     margin: 25px 0;
     font-weight: bold;
